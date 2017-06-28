@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="Greenet-PC" name="test.VersaTest1" skipped="0" tests="3" time="6.406" timestamp="2017-06-14T07:35:15">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes" />
+    <property name="env.COMPUTERNAME" value="GREENET-PC" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="java.runtime.version" value="1.8.0_131-b11" />
+    <property name="env.HOMEPATH" value="\Users\Greenet" />
+    <property name="user.name" value="Greenet" />
+    <property name="user.language" value="zh" />
+    <property name="env.windows_tracing_flags" value="3" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="test" />
+    <property name="java.version" value="1.8.0_131" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\Greenet\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\Greenet\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\Greenet\workspace\test\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.131-b11" />
+    <property name="env.USERPROFILE" value="C:\Users\Greenet" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\Greenet\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\Greenet" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="2" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_131/bin/server;C:/Program Files/Java/jre1.8.0_131/bin;C:/Program Files/Java/jre1.8.0_131/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;E:\Tools\eclipse;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="C:\Users\Greenet\workspace\test\bin;C:\Users\Greenet\workspace\test\libs\hamcrest-core-1.3.jar;C:\Users\Greenet\workspace\test\libs\hamcrest-library-1.3.jar;E:\Tools\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;E:\Tools\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:\Users\Greenet\workspace\test\libs\rest-assured-3.0.3.jar;C:\Users\Greenet\workspace\test\libs\groovy-2.4.9.jar;C:\Users\Greenet\workspace\test\libs\groovy-json-2.4.9.jar;C:\Users\Greenet\workspace\test\libs\groovy-xml-2.4.9.jar;C:\Users\Greenet\workspace\test\libs\httpclient-4.5.2.jar;C:\Users\Greenet\workspace\test\libs\httpcore-4.4.4.jar;C:\Users\Greenet\workspace\test\libs\httpmime-4.5.1.jar;C:\Users\Greenet\workspace\test\libs\activation-1.1.jar;C:\Users\Greenet\workspace\test\libs\btf-1.2.jar;C:\Users\Greenet\workspace\test\libs\commons-codec-1.9.jar;C:\Users\Greenet\workspace\test\libs\commons-lang3-3.4.jar;C:\Users\Greenet\workspace\test\libs\commons-logging-1.2.jar;C:\Users\Greenet\workspace\test\libs\guava-16.0.1.jar;C:\Users\Greenet\workspace\test\libs\jackson-annotations-2.7.0.jar;C:\Users\Greenet\workspace\test\libs\jackson-core-2.7.3.jar;C:\Users\Greenet\workspace\test\libs\jackson-coreutils-1.8.jar;C:\Users\Greenet\workspace\test\libs\jackson-databind-2.7.3.jar;C:\Users\Greenet\workspace\test\libs\joda-time-2.3.jar;C:\Users\Greenet\workspace\test\libs\jopt-simple-4.6.jar;C:\Users\Greenet\workspace\test\libs\json-schema-core-1.2.5.jar;C:\Users\Greenet\workspace\test\libs\json-schema-validator-2.2.6.jar;C:\Users\Greenet\workspace\test\libs\json-schema-validator-3.0.3.jar;C:\Users\Greenet\workspace\test\libs\jsr305-3.0.0.jar;C:\Users\Greenet\workspace\test\libs\libphonenumber-6.2.jar;C:\Users\Greenet\workspace\test\libs\mailapi-1.4.3.jar;C:\Users\Greenet\workspace\test\libs\msg-simple-1.1.jar;C:\Users\Greenet\workspace\test\libs\rhino-1.7R4.jar;C:\Users\Greenet\workspace\test\libs\tagsoup-1.2.1.jar;C:\Users\Greenet\workspace\test\libs\uri-template-0.9.jar;C:\Users\Greenet\workspace\test\libs\json-path-3.0.3.jar;E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner test.VersaTest1 skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Greenet\workspace\test\junit\TEST-test.VersaTest1.xml crashfile=C:\Users\Greenet\workspace\test\junitvmwatcher4775633353336787616.properties propsfile=C:\Users\Greenet\workspace\test\junit8635365790489758875.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.LOGONSERVER" value="\\GREENET-PC" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="java.io.tmpdir" value="C:\Users\Greenet\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="3c03" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="ant.file.test" value="C:\Users\Greenet\workspace\test\build.xml" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="ant.file.type.test" value="file" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Greenet\AppData\Local" />
+    <property name="user.dir" value="C:\Users\Greenet\workspace\test" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_131/bin/server;C:/Program Files/Java/jre1.8.0_131/bin;C:/Program Files/Java/jre1.8.0_131/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;E:\Tools\eclipse;" />
+    <property name="basedir" value="C:\Users\Greenet\workspace\test" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="E:\Tools\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="env.USERNAME" value="Greenet" />
+    <property name="source" value="1.8" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="GBK" />
+    <property name="env.USERDOMAIN" value="Greenet-PC" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,VersaTest1,junitreport" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="test.VersaTest1" name="VerifyHeader" time="0.811">
+    <error message="test timed out after 50 milliseconds" type="org.junit.runners.model.TestTimedOutException">org.junit.runners.model.TestTimedOutException: test timed out after 50 milliseconds
+	at java.lang.Throwable.fillInStackTrace(Native Method)
+	at java.lang.Throwable.fillInStackTrace(Throwable.java:783)
+	at java.lang.Throwable.&lt;init&gt;(Throwable.java:287)
+	at java.lang.Exception.&lt;init&gt;(Exception.java:84)
+	at java.lang.ReflectiveOperationException.&lt;init&gt;(ReflectiveOperationException.java:75)
+	at java.lang.ClassNotFoundException.&lt;init&gt;(ClassNotFoundException.java:82)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:411)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:335)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:348)
+	at com.sun.beans.finder.ClassFinder.findClass(ClassFinder.java:67)
+	at com.sun.beans.finder.ClassFinder.findClass(ClassFinder.java:110)
+	at com.sun.beans.finder.InstanceFinder.instantiate(InstanceFinder.java:93)
+	at com.sun.beans.finder.InstanceFinder.find(InstanceFinder.java:66)
+	at java.beans.Introspector.findExplicitBeanInfo(Introspector.java:448)
+	at java.beans.Introspector.&lt;init&gt;(Introspector.java:398)
+	at java.beans.Introspector.getBeanInfo(Introspector.java:173)
+	at groovy.lang.MetaClassImpl$15.run(MetaClassImpl.java:3318)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at groovy.lang.MetaClassImpl.addProperties(MetaClassImpl.java:3316)
+	at groovy.lang.MetaClassImpl.initialize(MetaClassImpl.java:3293)
+	at org.codehaus.groovy.reflection.ClassInfo.getMetaClassUnderLock(ClassInfo.java:260)
+	at org.codehaus.groovy.reflection.ClassInfo.getMetaClass(ClassInfo.java:302)
+	at org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl.getMetaClass(MetaClassRegistryImpl.java:261)
+	at org.codehaus.groovy.runtime.InvokerHelper.getMetaClass(InvokerHelper.java:883)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.createCallConstructorSite(CallSiteArray.java:87)
+	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:60)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:235)
+	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:247)
+	at io.restassured.internal.RequestSpecificationImpl.&lt;init&gt;(RequestSpecificationImpl.groovy:111)
+	at io.restassured.RestAssured.createTestSpecification(RestAssured.java:1492)
+	at io.restassured.RestAssured.given(RestAssured.java:711)
+	at test.VersaTest1.VerifyHeader(VersaTest1.java:71)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.lang.Thread.run(Thread.java:748)
+</error>
+  </testcase>
+  <testcase classname="test.VersaTest1" name="VerifyResponseCode" time="2.999" />
+  <testcase classname="test.VersaTest1" name="VerifyBodyContent" time="2.54" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
